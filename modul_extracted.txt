@@ -1,0 +1,1485 @@
+MODUL PRAKTIKUM
+MINERALOGI DAN PETROLOGI
+
+Dosen Pengampu : SUNDYO S.T., M.T.
+SAssisten Praktikum : 1. AL DISA EKA SAPUTRI
+2. AMALIA AZIS
+
+PROGRAM STUDI TEKNIK PERTAMBANGAN FAKULTAS
+TEKNIK
+UNIVERSITAS KUTAI KARTANEGARA SEMESTER GANJIL
+2025/2026
+
+TATA TERTIB LABORATORIUM
+I. PESERTA WAJIB
+1. Sudah membayar praktikum, dan mengumpulkan bukti pembayaran praktikum ke
+laboratorium
+2. Berpakaian rapi dan sopan, tidak diperkanankan mengunakan kaos oblong dan bersandal,
+dan tidak diperkenankan berpakaian celana sobek.
+3. Mengisi Pernyataan Mentaati Tata Tertib Laboratorium
+4. Memiliki Buku Panduan Praktikum
+5. Hadir 10 menit sebelum praktikum dimulai
+6. Peserta praktikum harus menandatangani daftar hadir sebelum praktikum dilaksanakan.
+7. Bila sesuatu hal berhalangan hadir, peserta wajib melaporkan diri kepada Ka. Lab, untuk
+menyampaikan alasan ketidakhadirannya, ketidakhadiran tanpa sepengetahuan yang
+berwenang, maka peserta dianggap gugur.
+8. Peserta boleh meninggalkan Ka.Lab/Teknisi/Instruktur/Asisten Dosen tempat praktikum
+hanya atas seijin
+9. Berlaku sopan, bertanggung jawab, berinisiatif dan kreatif terhadap tugas-tugas yang
+diberikan selama praktikum
+10. Tas dan barang lainnya yang tidak dibutuhkan dalam kegiatan praktikum agar diletakkan di
+tempat yang telah disediakan.
+11. Menjaga kebersihan laboratorium
+12. Mentaati peraturan dalam menggunakan alat dan bahan yang dipakai dalam praktikum.
+Merusak peralatan akibat kelalaian, peserta wajib mengganti, memperbaiki dan sebagainya
+sebagaimana perintah Ka.Lab dan dinyatakan dalam Berita Acara kejadian.
+13. Setelah selesai praktikum, pengguna wajib melapor dan mengembalikan semua fasilitas
+laboratorium yang digunakan kepada Teknisi dalam keadaan baik.
+II. PESERTA DILARANG
+1. Dalam pengaruh minuman keras dan narkoba
+2. Merokok, mengobrol, membuat kegaduhan, ribut, mengacau selama praktikum
+3. Pindah kelompok, kecuali atas persetujuan Ka. Lab.
+4. Melakukan jenis kegiatan lain tanpa seijin Ka. Lab. Membawa fasilitas laboratorium dalam
+bentuk apapun keluar dari laboratorium, tanpa izin tertulis dari Ka. Lab.
+III. SANKSI-SANKSI
+Pelanggaran-pelanggaran atas tata tertib selama praktikum dan pembuatan laporan akan dikenakan
+sanksi sebagai berikut :
+NO
+1
+2
+3
+4
+5
+
+JENIS SANKSI
+Peringatan secara lisan/teguran..
+Peringatan secara tertulis
+Pengurangan Nilai Praktikum
+Tidak Lulus Praktikum
+Dikeluarkan sebagai mahasiswa Jur. Teknik
+Pertambangan FT-UNIKARTA
+
+KRITERIA
+A
+B
+C
+D
+E
+(Pelanggaran
+berat/pidana)
+
+MINERALOGI
+Mineralogi adalah suatu cabang ilmu dari geologi yang mempelejari secara detail
+mengenai apa-apa saja yang bersangkutan dengan kristal, Mulai dari klasifikasi mineral logam
+ataupun non logam, dan penmbentuk mineral serta penamaan mineral tersebut. Awalnya,
+mineralogi lebih condong terhadap sistem klasifikasi mineral yang merupakan pembentuk
+batuan. Mineral adalah suatu benda padatan yang homogen, terjadi secara alamiah, terbentuk
+dari bahan anorganik, mempunyai komposisi kimia dan susunan atom tertentu.
+Mineral terbentuk dari atom-atom serta molekul-molekul dari berbagai unsur kimia, dimana
+atom-atom tersebut tersusun dalam suatu pola yang teratur. Keteraturan dari rangkaian atom ini
+akan menjadikan mineral mempunyai sifat dalam yang teratur.
+Petrologi adalah bidang geologi yang berfokus pada studi mengenai batuan dan kondisi
+pembentukannya. Ada tiga cabang ilmu petrologi yang berkaitan dengan tiga tipe batuan yaitu
+batuan beku, batuan metamorf dan batuan sedimen. Kata petrologi itu sendiri berasal dari kata
+Bahasa Yunani petra, dengan arti "batu". Di dalam dunia pertambangan, kita akan terus
+berhubungan dengan mineral dan batuan itu sendiri. Oleh karena itu sangat penting bagi kita
+sebagai mahasiswa jurusan pertambangan untuk mempelajari ilmu mineralogi dan petrologi,
+yang akan membantu kita dalam melihat segala aspek yang berhubungan dengan mineral dan
+batuan yang akan kita tambang. Berdasarkan perbedaan panjang sumbu dan besar sudut pada
+sebuah sistem kristal, Sistem kristal dapat dibagi menjadi 7 (tujuh) sistem kristal. Dari
+keteraturan rangkaian mineral atom itulah yang menjadikannya kristal. Dengan adanya sistem
+krital yakni mempelajari struktur
+sifat-sifat tersebut dengan pengelompokkan berdasar simetri/pengulangan unit sel dalam 3D
+
+2.1. LINGKUNGAN TERBENTUKNYA MINERAL
+Dari proses eksplorasi, penyelidikan, pencarian endapan mineral, dapat diketahui bahwa
+keberadaan suatu mineral tidak terlepas dari beberapa faktor yang sangat berpengaruh, antara
+lain banyaknya distribusi unsur-unsur kimia, aspek biologis dan fisika.
+Secara umum, proses pembentukan mineral, baik jenis logam maupun non-logam dapat
+terbentuk karena:
+1. Magmatik yang diakibatkan oleh aktivitas magma di dalam bumi, lelehan, erupsi,
+pneumarolitik, hydrotermal (zat yang berupa gas), dan hot spring (air panas). Contohnya
+: feldspar, biotit, amfibol, piroksen, olivin, nepelin, kuarsa, gelas dan muskovit.
+2. Metamorfosa, termasuk di dalamnya proses rekristalisasi dan isokimia. Contohnya :
+andalusit, kordierit, epidot, garnet, feltspar, ampibol, glaukofan, grafit, kianit, silimanit,
+staurolit, trimolit, aktimolit, wolastonit, mika dan kuarsa.
+
+3. Sedimen, termasuk di dalamnya proses evaporit (dengan penguapan) dan presipitasi
+(larutan yang mengkristal dengan sendirinya). Sedimen hanya terjadi di permukaan
+bumi. Contohnya : kuarsa, karbonat, mineral lempung, anhidrit, glaukonite (larutan
+kimia yang mengkristal), gypsum, halit (batu garam).
+
+2.1.1. MINERAL SILIKA
+Mineral silikat adalah mineral yang memiliki unsure pembentuknya yaitu silica ( SiO2 ),
+yang merupakan hasil pembekuan magma. Silikat merupakan bagian utama yang membentuk
+batuan baik itu sedimen, batuan beku maupun batuan malihan (metamorf). Macam mineral
+silikat dapat digolongkan berdasarkan komposisi kimianya. Mineral silikat ferromagnesian
+adalah mineral silikat yang mengandung ion besi dan atau magnesium di dalam struktur
+mineralnya. Mineral-mineral silikat yang tidak mengandung ion-ion besi dan magnesium
+disebut mineral non feromagnesian. perbedaan tersebut terutama disebabkan oleh ada tidaknya
+unsur besi didalam mineral tersebut.
+
+2.1.2. MINERAL NON SILIKA
+Beberapa mineral tidak mengandung kombinasi Silicon dan Oksigen. Mineral Nonsilicate
+termasuk sumber daya yang sangat berharga bagi manusia, seperti emas logam mulia, perak,
+dan platinum, logam yang berguna seperti besi, aluminium dan timah, dan permata berlian dan
+ruby.
+
+2.2.
+
+SIFAT-SIFAT FISIK MINERAL
+Semua mineral mempunyai susunan kimiawi tertentu dan penyusun atom- atom yang
+beraturan, maka setiap jenis mineral mempunyai sifat-sifat fisik/kimia tersendiri. Sifatsifat fisik yang dimaksudkan adalah:
+
+-
+
+Kohesi = cleavage, hardness, fracture,tenacity, etc
+
+-
+
+Specific gravity (SG), density, etc
+
+-
+
+Cahaya = indeks bias, diaphanety, colour, streak, luster, etc
+
+-
+
+Kemagnetan = ferromagnetism, ferrimagnetism, etc
+
+-
+
+Rasa = odour, feel, taste, etc
+
+-
+
+Perawakan kristal = acicular, columnar, bladed, foliated, etc
+Berikut penjelasan mengenai beberapa sifat fisik mineral:
+
+A. Warna
+Warna adalah suatu yang kita tangkap dengan mata apabila mineral terkena oleh cahaya
+atau spektrum cahaya yang dipantulkan oleh mineral itu sendiri. Warna penting untuk
+membedakan antara warna mineral yang diakibatkan oleh pengotoran dan warna asli dari
+mineral itu sendiri. Banyak mineral mempunyai warna yang khusus, misalnya mineral
+azurit yang berwarna biru dan mineral epidon yang berwarna kuning hijau, dll.
+B. Kilap (Luster)
+Kilap ditimbulkan oleh cahaya yang dipantulkan dari permukaan sebuah mineral yang erat
+hubungannya dengan sifat pemantulan dan pembiasan. Intensitas kilap tergantung dari
+indeks bias dari mineral.
+Macam - macam kilap antara lain :
+1. Kilap Logam (Metallic Luster)
+Mineral - mineral opaque yang mempunyai indeks bias sama dengan tiga atau lebih.
+Contoh: Galena, Native Metal, Sulfit, Pirit, dll.
+2. Kilap Kaca (Vitreous Luster)
+Bila terkena cahaya, mineral memberikan kesan seperti kaca. Contoh : Kuarsa, Kalsit, dll
+3. Kilap Intan (Diamond Luster)
+Bila terkena cahaya, mineral memberikan kesan cemerlang seperti intan. Contoh : Intan
+4. Kilap Sutera (Silky Luster)
+Bila terkena cahaya, mineral memberikan kesan sutera dan umumnya terdepat pada
+mineral yang berserat. Contoh : Asbes, Aktinolit, Gipsum, dll
+5. Kilap Damar (Resinous Luster)
+Bila terkena cahaya, mineral memberikan kesan seperti getah damar atau kekuning kuningan. Contoh : Spalerit, Sulfonit, dll
+6. Kilap Mutiara (Pearly Luster)
+Bila terkena cahaya, mineral memberikan kesan seperti mutiara atau bagian dalam dari kulit
+kerang. Contoh : Muskovit, Talk, Dolomit, dll
+7. Kilap Lemak (Greasy Luster)
+
+Bila terkena cahaya, mineral memberikan kesan seperti sabun. Contoh : Serpentinit, dll
+8. Kilap Tanah (Earthy Luster)
+Bila terkena cahaya, mineral memberikan kesan seperti lempung. Contoh : Kaolin, Limonit,
+Pauksit, dll
+C. Pecahan
+Pecahan adalah kenampakan mineral dalam keadaan pecah (tidak rata dan tidak halus).
+Jenis - jenis pecahan, yaitu :
+1. Pecahan Konkoidal
+Memperlihatkan gelombang seperti kenampakan bagian luar kulit kerang atau botol yang
+dipecah.Contoh:Kuarsa, Kalsedon, dll
+2. Pecahan Serat
+menunjukkan kenampakan permukaan yang gejala seperti serat atau daging. Contoh :
+Serpentinit, Asbes, Augit, dll
+3. Pecahan Tidak Rata
+Menunjukkan kenampakan permukaan yang tidak teratur dan kasar.
+4. Pecahan Runcing
+Permukaannya tidak teratur dan ujung - ujungnya runcing dan kasar.
+5. Pecahan Rata
+Permukaannya rata dan cukup halus. Contoh : Lempung, dll
+
+D. Belahan
+Belahan adalah kenampakan mineral untuk membelah melalui bidang yang rata, halus, dan
+licin, serta pada umumnya selalu berpasangan. Belahan dapat dibedakan menjadi :
+1. Belahan Sempurna (Perfect Cleavage)
+Merupakan pecahan yang sejajar terhadap bidang dari satu belahannya dengan
+memperlihatkan bidang permukaan yang halus. Contoh : Biotit, Muskovit, dll.
+2. Belahan Baik (Good Cleavage)
+Merupakan mineral lebih mudah belah yang menurut bidang di dalam belahannya bila
+
+dibandingkan dengan belahannya kearah lain. Contoh : Kalsit, Orthoklas, Gipsum, dll
+3. Belahan Tidak Jelas (Indistinct Cleavage)
+Merupakan bidang belahan seperti garis atau kenampakan striasi pada bidang belahannya.
+Contoh : Plagioklas, dll
+4. Belahan Tidak Tentu
+Merupakan mineral yang tidak ada belahannya. Contoh : Kuarsa, Opal, Kalsedon, dll
+5. Belahan Jelas (Distinct)
+Merupakan pecahan yang sesuai terhadap bidang dari suatu belahan tetapi juga terpecah
+kearah lain. Contoh : Hornblende
+6. Belahan tidak sempurna (Inperfect Cleavage)
+Merupakan bidang belahan yang tidak rata dan juga cukup sukar untuk diamati. Contoh :
+Apatit, Native Metal, dll.
+Ditinjau dari arah belahannya, maka belahan dapat dibedakan menjadi :
+1. Belahan satu arah
+
+2. Belahan dua arah.
+
+3. Belahan tiga arah
+
+4. Belahan empat arah.
+
+E. Kekerasan
+Kekerasan adalah ukuran daya tahan suatu mineral apabila permukaannya digores dengan
+mineral lain. Contoh : Mineral X digores dengan menggunakan Mineral Z ternyata pada
+permukaan mineral X tergores, maka Mineral Z lebih keras dari mineral X. Berikut tabel Skala
+Kekerasan mineral yang dibuat oleh Mohs.
+
+Selain menggunakan mineral, bisa juga menggunakan alat untuk mengukur suatu
+kekerasan dari mineral.
+•
+
+Kuku Jari = 2,5
+
+•
+
+Jarum = 3,0
+
+•
+
+Uang Logam = 3,5
+
+•
+
+Paku Besi = 4,5
+
+•
+
+Pisau Baja = 5,5
+
+•
+
+Kaca = 5,5 - 6,0
+
+•
+
+Kikir Baja = 6,0 - 7,0
+
+•
+
+Ampelas = 8,0 - 9,0
+
+Ada 4 kelompok bentuk kristal, yaitu:
+1. EUHEDRAL (Bagus)
+Kristal sempurna yang memiliki banyak lapisan dan bidang sempurna.
+2. ANHEDRAL (tanpa/ jelek)
+Kristal yang memiliki bidang tidak sempurna.
+3. SUB-HEDRAL (diantara eu dan an)
+Kristal yang memiliki bentuk antara EUHEDRAL dan ANHEDRAL.
+Tingkat kesempurnaan bangun kristal
+Yang mempengaruhi kesempurnaan bangun kristal adalah:
+1. Sifat alamiah fasa cair/gas
+2. Ruang/tempat terbentuknya
+3. Temperatur dan tekanan
+
+Sistem kristal memiliki 7 macam yaitu:
+1.
+
+Sistem Isometrik
+
+Disebut sistem kristal regular atau kubus/kubik. Jumlah sumbu kristalnya ada 3 dan saling tegak
+lurus satu dengan yang lainnya. Dengan perbandingan panjang yang sama untuk masing-masing
+sumbunya. Pada kondisi sebenarnya, sistem kristal Isometrik memiliki axial ratio perbandingan
+sumbu a = b = c, yang artinya panjang sumbu a sama dengan sumbu b dan sama dengan sumbu
+c. Dan juga memiliki sudut kristalografi α = β = γ = 90˚. Hal ini berarti, pada sistem ini, semua
+sudut kristalnya ( α , β dan γ ) tegak lurus satu sama lain (90˚).
+
+Gambar. 1 Sistem Isometrik
+system kristal Isometrik ini adalah gold, pyrite, galena, halite, Fluorite.
+2.
+
+Sistem Tetragonal
+
+Tetragonal memiliki axial ratio (perbandingan sumbu) a = b ≠ c , yang artinya panjang sumbu
+a sama dengan sumbu b tapi tidak sama dengan sumbu c. Dan juga memiliki sudut kristalografi
+α = β = γ = 90˚. Hal ini berarti, pada sistem ini, semua sudut kristalografinya ( α , β dan γ ) tegak
+lurus satu sama lain (90˚).
+
+Gambar 2 Sistem Tetragonal
+Beberapa contoh mineral dengan sistem kristal Tetragonal ini adalah rutil, autunite, pyrolusite,
+Leucite, scapolite.
+
+3.
+
+Sistem Hexagonal
+
+Hexagonal memiliki axial ratio (perbandingan sumbu) a = b = d ≠ c , yang artinya panjang
+sumbu a sama dengan sumbu b dan sama dengan sumbu d, tapi tidak sama dengan sumbu c.
+Dan juga memiliki sudut kristalografi α = β = 90˚ ; γ = 120˚. Hal ini berarti, pada sistem ini,
+sudut α dan β saling tegak lurus dan membentuk sudut 120˚ terhadap sumbu γ.
+
+Gambar 3 Sistem Hexagonal
+Beberapa contoh mineral dengan sistem kristal Hexagonal ini adalah quartz, corundum,
+hematite, calcite, dolomite, apatite
+
+4.
+
+Sistem Trigonal
+
+Trigonal memiliki axial ratio (perbandingan sumbu) a = b = d ≠ c , yang artinya panjang sumbu
+a sama dengan sumbu b dan sama dengan sumbu d, tapi tidak sama dengan sumbu c. Dan juga
+memiliki sudut kristalografi α = β = 90˚ ; γ = 120˚. Hal ini berarti, pada sistem ini, sudut α dan
+β saling tegak lurus dan membentuk sudut 120˚ terhadap sumbu γ.
+
+Gambar 4 Sistem Trigonal
+Beberapa contoh mineral dengan sistem kristal Trigonal ini adalah tourmaline dan cinabar.
+
+5.
+
+Sistem Orthorhombik
+
+Disebut juga sistem Rhombis dan mempunyai 3 sumbu simetri kristal yang saling tegak lurus
+satu dengan yang lainnya. Ketiga sumbu tersebut mempunyai panjang yang berbeda.
+Pada kondisi sebenarnya, sistem kristal Orthorhombik memiliki axial ratio (perbandingan
+sumbu) a ≠ b ≠ c , yang artinya panjang sumbu- sumbunya tidak ada yang sama panjang atau
+berbeda satu sama lain.
+Dan juga memiliki sudut kristalografi α = β = γ = 90˚. Hal ini berarti, pada sistem ini, ketiga
+sudutnya saling tegak lurus (90˚).
+
+Gambar 5 Sistem Orthorhombik
+Beberapa contoh mineral denga sistem kristal Orthorhombik ini adalah stibnite, chrysoberyl,
+aragonite dan witherite .
+6.
+
+Sistem Monoklin
+
+Monoklin memiliki axial ratio (perbandingan sumbu) a ≠ b ≠ c , yang artinya panjang sumbusumbunya tidak ada yang sama panjang atau berbeda satu sama lain. Dan juga memiliki sudut
+kristalografi α = β = 90˚ ≠ γ. Hal ini berarti, pada ancer ini, sudut α dan β saling tegak lurus
+(90˚), sedangkan γ tidak tegak lurus (miring).
+
+Gambar 6 Sistem Monoklin
+Beberapa contoh mineral dengan ancer kristal Monoklin ini adalah azurite, malachite,
+colemanite, gypsum, dan epidot .
+
+7.
+
+Sistem Triklin
+
+Triklin memiliki axial ratio (perbandingan sumbu) a ≠ b ≠ c , yang artinya panjang sumbusumbunya tidak ada yang sama panjang atau berbeda satu sama lain. Dan juga memiliki sudut
+kristalografi α = β ≠ γ ≠ 90˚. Hal ini berarti, pada system ini, sudut α, β dan γ tidak saling tegak
+lurus satu dengan yang lainnya.
+
+Gambar 7 Sistem Triklin
+Beberapa contoh mineral dengan ancer kristal Triklin ini adalah albite, anorthite, labradorite,
+kaolinite,microcline dan anortoclase (Pellant, chris. 1992).
+
+Mineral yakni merupakan sebuah zat padat homogen atau an-organik yang terdapat dan
+terbentuknya dialam dengan komposisi yang juga khas sesuai sistem kristal yang dimiliki oleh
+mineral itu sendiri. Banyak sekali definisi mengenai mineral, namun pada bidang geologi
+mineral biasanya dikatakan Mineral adalah zat atau benda padat homogen dan terbentuk dialam
+melalui proses alam itu sendiri, serta biasanya mempunyai susunan atau kandungan kimia
+tertentu
+Hingga sekarang telah ditemukan mengenai mineral yakni, telah diketahui bahwa ada
+lebih dari 2300 mineral, dan setiap tahunya akan bertambah dengan kecepatan maksimal 25
+mineral pertahunya. Proses keterbentukan mineral sangatlah bermacam-macam :
+•
+
+Sublimasi
+
+•
+
+Sedimentasi
+
+•
+
+Evaporasi
+
+•
+
+Proses hidrothermal
+
+•
+
+Konsentrasi mekanika residual
+
+•
+
+Karena adanya Metamorfisme
+
+•
+
+Karena adanya kristalisasi magma,
+
+•
+
+Konsentrasi Mekanika dan Residual
+
+•
+
+Oksidasi dan Pengkayaan supergen
+
+•
+
+Metasomatisme Kontak
+
+2.2
+
+Deskripsin Mineral
+
+a.
+
+Ketahanan
+Suatu ketahanan pada mineral meliputi penggerusan, pematahan, pengirisian,
+pembengkokan .Dibawah ini adalah beberapa istilah yang mengatakan pecahan :
+• Brittle
+: Suatu mineral yang terpecahkan menjadi bubuk.
+
+b.
+
+•
+
+Fleksible
+
+: Mineral yang jika dibengkokan tidak kembali kesemula
+
+•
+
+Elastisitas
+
+: Mineral yang jika dibengkokan kembali kebentuk awal
+
+•
+
+Daktil
+
+: Suatu mineral yang dapat kita bentuk seperti tembaga/kawat
+
+•
+
+Sektil
+
+: Mineral yang bisa diiris setipis-tipisnya
+
+•
+
+Meleable
+
+: Mineral yang bisa ditempa dengan alat sekitar
+
+Belahan
+Sebuah mineral yang memiliki kecenderungan untuk pecah dengan melalui bidang
+belahaya dapat dikatkan belahan sempurna.Sedangkan kalau belahan yang tidak sempurna
+Mineral tersebut tidak akan membelah pada bidang belahanya.
+
+c.
+
+Kilap
+Kilap yakni adalah cerminan dari bagian terluar mineral yang memberikan cahaya : Ada
+dua jenis kilap yang diketahui.
+➢ Logam adalah kilap yang bisa diketahui dengan cara melihat terangnya mineral tersebut
+yang biasanya memberi warna gelap dan hitam.
+➢ Non logam adaloah kilap yang bisa kita bedakan dengan logam karena biasanya kilap
+ini memantulkan warna-warna yang terbilang muda, dan terdiri dari banyak macam,
+diantaranya :
+•
+
+Kilap Kaca
+
+•
+
+Kilap Tanah
+
+•
+
+Kilap Sutera
+
+•
+
+Kilap Intan
+
+•
+
+Kilap Mutiara
+
+•
+
+Kilap Lemak
+
+•
+
+Kilap Damar
+
+d.
+
+Kekerasan
+Kekerasan yakni merupakan bertahanya atau tidak suatu mineral biladigores. Kekerasan
+ini tergantung terhadap struktur penyusun Kristal itu sendiri.
+SkalaKekerasanMohs
+
+e.
+
+NilaiKekerasan
+1
+
+Nama Mineral
+Talk
+
+Unsur Mineral
+H2Mg3(Si04)3
+
+2
+
+Gips
+
+CaSO 2 .2H2 O
+
+3
+
+Kalsit
+
+CaCO 3
+
+4
+
+Fluorit
+
+CaF2
+
+5
+
+Apatit
+
+Ca5 (PO 4 )3 F
+
+6
+
+Felspar
+
+K(AlSi3 O 8 )
+
+7
+
+Kwarsa
+
+SiO 2
+
+8
+
+Topaz
+
+Al2 SiO 4
+
+9
+
+Korundum
+
+Al2 O3
+
+10
+
+Intan
+
+C
+
+Gores
+Gores merupakan warna yang ada ketika mineral tersebut digores oleh sebuah benda
+lain pada permukaan mineral tersebut.
+f.
+Masa Jenis
+Masa jenis adalah suatu angka yang menyatakan berat sebuah zat atau mineral
+
+dibandingkan dengan berat air pada suhu tertentu, mempunyai volume sama.
+g.
+Pecahan
+Pecahan merupakan suatu metode sebuah mineral jika pecah dan tidak mengikuti bidang
+belahan dari mineral itu sendiri. Berikut beberapa macam pecahan .
+• Konkoidal
+•
+
+Menyerat
+
+•
+
+Bergerigi
+
+•
+
+Tak beraturan
+
+h.
+
+Kemagnetan
+Proses pendeskripsian ini misalnya sebuah mineral yang didekatkan dengan kutub
+magnet yang berbeda dengan mineral akan tertarik, artinya mineral tersebut memiliki unsure
+magnet.
+i.
+Warna
+Biasanya pada sebuah mineral terdiri dari satu dua bahkan lebih, dan yang diambil
+biasanya adalah warna utama atau warna yang dominan.
+2.3
+•
+
+Jenis-jenis mineral
+Primer
+Jenis mineral ini adalah mineral penyusun utama biasanya genesanya adalah akibat proses
+kristalisasi magma, dan contoh mineralnya adalah deret bowen, berikut gambar mineralnya :
+
+•
+
+Sumber: Google search image
+Foto 2.1
+Hornblenda
+Sekunder
+Jenis mineral ini adalah mineral yang terbentuk akibat perubahan, biasanya genesanya adalah
+akibat proses sedimentasi seperti karena pelapukan, berikut contoh gambar mineralnya :
+
+Sumber: Google search image
+Foto 2.2
+
+Laumontite
+•
+
+Aksesoris
+Jenis mineral ini adalah mineral tambahan
+
+2.1.
+
+MINERAL SILIKA DAN NON-SILIKA
+2.1.1. MINERAL SILIKA
+
+Mineral silikat adalah mineral yang memiliki unsure pembentuknya yaitu silica ( SiO2 ),
+yang merupakan hasil pembekuan magma. Silikat merupakan bagian utama yang membentuk
+batuan baik itu sedimen, batuan beku maupun batuan malihan (metamorf). Silikat pembentuk
+batuan yang umum adalah dibagi menjadi dua kelompok, yaitu kelompok ferromagnesium dan
+non-ferromagnesium.
+Macam mineral silikat dapat digolongkan berdasarkan komposisi kimianya. Mineral silikat
+ferromagnesian adalah mineral silikat yang mengandung ion besi dan atau magnesium di dalam
+struktur mineralnya.
+Mineral-mineral silikat yang tidak mengandung ion-ion besi
+dan magnesium disebut mineral non feromagnesian. Mineral-mineral silikat feromegnesian
+dicirikan oleh warnanya yang gelap dan mempunyai berat jenis antara 3,2 sampai 3,6.
+Sebaliknya mineral-mineral silikat non feromagnesian pada umumnya mempunyai warna
+terang dan berat jenis rata-rata 2,7. perbedaan tersebut terutama disebabkan oleh ada tidaknya
+unsur besi didalam mineral tersebut.
+Kuarsa merupakan mineral silikat yang hanya disusun oleh silikon dan oksigen. Mineral
+kuarsa juga sering disebut silika karena komposisinya SiO2 . karena struktur kuarsa mengandung
+dua atom oksigen untuk tiap atom silikon, maka tidak dibutuhkan lagi ion positif untuk
+menjadikan mineral kuarsa ini netral. Struktur kristak kuarsa membentuk jaringan tiga dimensi
+yang lengkap antara ion oksigen disekitar ion silikon, sehingga
+membentuk suatu ikatan yang kuat antara keduanya. Akibatnya kuarsa tidak mempunyai bidang
+belahan, sangat keras dan resistan terhadap proses pelapukan. Kuarsa mempunyai belahan
+konkoidal. Pada bentuknya yang sempurna kuarsa sangat jernih, membentuk kristal eksagonal
+dengan bentuknya piramidal. Warna mineral kuarsa sangat bervariasi tergantung pada proses
+pengotoran pada waktu pembentukannya. Variasi warna menyebabkan adanya bermacam
+mineral kuarsa. Mineral kuarsa yang umum adalah kuarsa susu (putih), kuarsa asap (abu-abu)
+
+kuarsa rose (ping), ametis (purple) dan kristal batuan (clear). Mineral Silikat:
+• Kuarsa (SiO2): Mineral yang sangat umum dan keras, sering digunakan dalam pembuatan
+
+kaca dan keramik.
+• Feldspar (KAlSi3O8): Mineral yang umum dalam batuan kerak bumi, contohnya ortoklas.
+• Mika
+
+(KAl2(AlSi3O10)(OH)2): Mineral yang memiliki lembaran tipis dan fleksibel,
+
+contohnya muskovit dan biotit.
+• Amfibol (Ca2(Mg,Fe)5(Si,Al)8O22(OH)2): Contohnya hornblende.
+• Piroksen (CaMgSi2O6): Contohnya augite.
+• Olivin ((Mg,Fe)2SiO4)
+
+2.1.2. MINERAL NON SILIKA
+Beberapa mineral tidak mengandung kombinasi Silicon dan Oksigen.
+Mineral Nonsilicate termasuk sumber daya yang sangat berharga bagi manusia, seperti emas
+logam mulia, perak, dan platinum, logam yang berguna seperti besi, aluminium dan timah, dan
+permata berlian dan ruby. Mineral Nonsilicate dipisahkan ke dalam kelas berikut:
+1) Elemen asli
+Elemen pribumi, seperti Gold, Platinum, atau tembaga, tidak digabungkan dengan unsurunsur lainnya. Digunakan dalam perhiasan, koin dan elektronik.
+2) Karbonat
+Elemen karbonat mengandung kombinasi Karbon dan Oksigen. Beberapa contoh adalah
+kalsit dalam batu gamping, atau bila dikombinasikan dengan magnesium, dolomit.
+Digunakan untuk memproduksi semen.
+3) Oksida
+Oksida yang terbentuk ketika ion oksigen bermuatan negatif menggabungkan dengan ion
+logam yang positif, seperti Besi. Beberapa contoh termasuk hematit, korundum, aluminium
+dan magnetit. Digunakan di bagian pesawat dan amplas
+4) Halida
+Halida terbentuk ketika halogen seperti klorin, yodium. Fluorin, atau menggabungkan Brom
+dengan unsur-unsur lain seperti Kalsium, Sodium, atau Kalium. Beberapa contoh adalah
+fluorit atau klorit. Digunakan untuk bahan kimia dan deterjen.
+5) Sulfida
+Unsur sulfida The, seperti kalkosit dan galena, Sulfur mengandung dikombinasikan dengan
+satu atau lebih unsur logam. Umumnya digunakan untuk membuat baterai dan elektronik.
+
+6) Sulfat
+Sulfat terbentuk ketika ion Sulfur gudang elektron dan obligasi dengan Oksigen, dan
+kemudian obligasi dengan satu atau lebih unsur logam. Contohnya adalah gipsum, digunakan
+untuk membuat sheetrock dan semen. Mineral Nonsilicate tidak hampir sama umum sebagai
+mineral silikat, namun mereka adalah bagian besar dari kehidupan kita sehari-hari. Karena
+mineral ini sangat penting untuk manusia, kita perlu menggunakannya dengan hati- hati.
+Banyak dari mineral dapat digunakan kembali atau didaur ulang menjadi produk baru
+daripada harus diekstraksi dari tanah.
+Mineral Non-Silikat:
+•
+
+Karbonat (CO3): Contohnya kalsit (CaCO3) dan dolomit (CaMg(CO3)2).
+
+•
+
+Oksida (O): Contohnya hematit (Fe2O3) dan magnetit (Fe3O4).
+
+•
+
+Sulfida (S): Contohnya piriti (FeS2) dan galena (PbS).
+
+•
+
+Sulfat (SO4): Contohnya gipsum (CaSO4·2H2O).
+
+•
+
+Halida (X-): Contohnya halit (NaCl) dan silvit (KCl).
+
+•
+
+Fosfat (PO4): Contohnya apatit (Ca5(PO4)3(OH,F,Cl)).
+
+•
+
+Native Element: Contohnya emas (Au), perak (Ag), dan tembaga (Cu)
+
+PETROLOGI
+3.1.
+
+PENGERTIAN UMUM
+
+Petrologi adalah ilmu yang membahas proses pembentukan batuan, termasuk bahasan
+tentang struktur, tekstur, komposisi mineral, kandungan fosil, umur, dan evolusi yang terjadi
+terhadap batuan tersebut.
+Sedangkan batuan didefinisikan sebagai agregat satu atau beberapa mineral (anorganik) dan
+material organik yang terjadi secara alamiah dan menyusun lapisan kulit bumi. Tanah dan bahan
+lepas lainnya yang merupakan hasil pelapukan kimia maupun mekanis serta proses erosi batuan
+tidak termasuk dalam batuan.
+Batuan sebagai agregrat mineral-mineral pembentuk kulit bumi secara genesa dapat
+dikelompokkan dalam tiga jenis batuan, yaitu:
+1.
+
+Batuan Beku (Igneous Rock), adalah kelompok interlocking agregrat mineral-mineral
+
+silikat hasil magma yang mendingin.
+2.
+
+Batuan Sedimen (Sedimentary rock), adalah batuan hasil lithifikasi bahan rombakan
+
+batuan hasil denudasi atau hasil reaksi kimia maupun hasil kegiatan organisme.
+3.
+
+Batuan Metamorf (Metamorphic Rock), adalah batuan yang berasal dari suatu batuan
+
+induk yang mengalami perubahan tekstur dan komposisi mineral pada fase padat sebagai akibat
+perubahan kondisi fisika (tekanan, temperatur atau tekanan dan temperatur).
+
+3.2.
+
+JENIS-JENIS BATUAN
+
+3.2.1 BATUAN BEKU
+Batuan Beku adalah, jenis batuan yang terbentuk dari hasil proses pembekuan bahan lelehan
+atau sebagian leleh (magma). Batuan beku dalam bahasa latin dinamakan igneus yang artinya
+api. Berdasarkan tempat pembekuan magma batuan beku dibedakan menjadi 2 yaitu :
+1. Batuan beku instrusif atau instrusi atau plutonik Magma yang membeku di bawah tanah sebelum
+mereka mencapai permukaan bumi disebut dengan nama pluton.
+2. Batuan beku ekstrusif adalah batuan beku yang terjadi karena keluarnya magma ke permukaan
+bumi dan menjadi lava atau meledak secara dahsyat di atmosfer dan jatuh kembali ke bumi
+sebagai batuan.
+
+3.2.1.1
+
+TEKSTUR BATUAN BEKU
+
+Yaitu refleksi genesa batuan yang nampak dalam bentuk makro ataupun mikro. Tekstur
+batuan beku dapat dibedakan berdasarkan :
+1. Tingkat kristalisasi
+o Holokristalin : batuan beku yang hampir seluruhnya disusun oleh Kristal.
+o Hipokristalin : batuan beku yang tersusun oleh kristal dan glass.
+o Holohyalin : batuan beku yang hampir seluruhnya tersusun oleh Glass.
+2. Ukuran butir
+o Phaneritic : batuan beku yang hampir seluruhmya tersusun oleh mineral-mineral yang
+berukuran kasar.
+o Aphanitic : batuan beku yang hampir seluruhnya tersusun oleh mineral berukuran halus.
+
+3. Bentuk kristal
+Bentuk mineral yang terlihat melalui pengamatan mikroskop yaitu:
+o Euhedral, yaitu bentuk kristal yang sempurna
+o Subhedral, yaitu bentuk kristal yang kurang sempurna
+o Anhedral, yaitu bentuk kristal yang tidak sempurna.
+
+4. Berdasarkan kombinasi bentuk kristalnya
+o Unidiomorf (Automorf)
+sebagian besar kristalnya dibatasi oleh bidang kristal atau bentuk kristal euhedral
+(sempurna)
+o Hypidiomorf (Hypautomorf)
+sebagian besar kristalnya berbentuk euhedral dan subhedral.
+o Allotriomorf (Xenomorf)
+sebagian besar penyusunnya merupakan kristal yang berbentuk anhedral.
+
+5. Berdasarkan keseragaman antar butirnya
+o Equigranular, yaitu ukuran butir penyusun batuannya hampir sama
+o Inequigranular, yaitu ukuran butir penyusun batuannya tidak sama
+
+3.2.1.2 KLASIFIKASI BATUAN BEKU
+Batuan beku diklasifikasikan berdasarkan tempat terbentuknya, warna, kimia, tekstur, dan
+mineraloginya.
+A. Berdasarkan tempat terbentuknya batuan beku dibedakan atas:
+1. Batuan beku Plutonik, yaitu batuan beku yang terbentuk jauh di perut bumi.
+2. Batuan beku Hypabisal, yaitu batuan beku yang terbentu tidak jauh dari permukaan bumi.
+3. Batuan beku vulkanik, yaitu batuan beku yang terbentuk dipermukaan bumi.
+
+B. Berdasarkan warnanya, mineral pembentuk batuan beku ada dua yaitu:
+1. mineral mafic (gelap) = olivin, piroksen, amphibol dan biotit.
+2. mineral felsic (terang) = Feldspar, muskovit, kuarsa dan feldspatoid.
+
+C. Klasifikasi batuan beku berdasarkan kandungan mineral mafik
+1. Leucocratic rock, kandungan mineral mafic < 30%
+2. Mesocratic rock, kandungan mineral mafic 30% - 60%
+3. Melanocratic rock, kandungan mineral mafic 60% - 90%
+4. Hypermalanic rock, kandungan mineral mafic > 90%
+
+D. Berdasarkan kandungan kimianya yaitu kandungan SiO2-nya batuan beku diklasifikasikan
+menjadi empat:
+1. Batuan beku asam (acid)
+kandungan SiO2 > 65%. Contohnya Granit, Ryolit.
+2. Batuan beku menengah (intermediet)
+kandungan SiO2 65% - 52%. Contohnya Diorit, Andesit
+3. Batuan beku basa (basic)
+kandungan SiO2 52% - 45%. Contohnya Gabbro, Basalt
+4. Batuan beku ultra basa (ultra basic). Contohnya kandungan SiO2 < 30%
+
+3.3.2. BATUAN SEDIMEN
+Batuan sedimen adalah batuan yang terbentuk dari akumulasi material hasil perombakan batuan
+yang sudah ada sebelumnya atau hasil aktivitas kimia maupun organisme, yang diendapkan
+lapis demi lapis pada permukaan bumi yang kemudian mengalami pembatuan.
+
+Sumber : https://fhm13fas.files.wordpress.com/2010/08/sed1.jpg
+pembentukan batuan sedimen
+
+Gambar
+
+3.1
+
+Proses
+
+Material atau komponen penyusun batuan sedimen adalah :
+1. Material detritus (Allogenik) sebagai hasil rombakan yang terbentuk dari luar daerah
+sedimentasi terdiri dari :
+•
+
+Fragmen mineral atau kristal, seperti mineral silikat, yaitu kuarsa, feldspar, mineral lempung,
+dan lain-lain.
+
+•
+
+Fragmen batuan yang berukuran kasar hingga halus.
+
+2. Material Autogenik, terbentuk di daerah sedimentasi atau cekungan sebagai hasil proses
+kimiawi atau biokimia, seperti kalsit, gypsum, halit, oksida besi, dan lain-lain.
+Pettijohn (1975), O’Dunn & Sill (1986) membagi batuan sedimen berdasarkan teksturnya
+menjadi dua kelompok besar, yaitu batuan sedimen klastika dan batuan sedimen non-klastika.
+
+3.3.2.1. BATUAN SEDIMEN KLASTIK
+Batuan sedimen klastika (detritus, mekanik, eksogenik) adalah batuan sedimen yang
+terbentuk sebagai hasil pengerjaan kembali (reworking) terhadap batuan yang sudah ada.
+Batuan asal dapat berupa batuan beku, metamorf, dan sedimen itu sendiri. Proses pengerjaan
+kembali itu meliputi pelapukan, erosi, transportasi dan kemudian redeposisi (pengendapan
+kembali). Sebagai media proses tersebut adalah air, angin, es atau efek gravitasi (beratnya
+sendiri). Media yang terakhir itu sebagai akibat longsoran batuan yang telah ada. Kelompok
+batuan ini bersifat fragmental, atau terdiri dari butiran/pecahan batuan (klastika) sehingga
+bertekstur klastika.
+Komponen pembentuk batuan klastik :
+•
+
+Butiran (grain) : butiran klastik yang tertransport yang berupa mineral, fosil atau fragmen
+batuan (litik).
+
+•
+
+Masa dasar (matrix) : berukuran lebih halus dari butiran (< 1/16 mm) dan diendapkan
+bersama-sama dengan butiran.
+
+•
+
+Semen (cement) : material berukuran halus yang mengikat butiran dan matrik, diendapkan
+setelah fragmen dan matrik, contoh : semen karbonat, silika, oksida besi, lempung, dll.
+
+Sumber : http://nuranigeo.blogspot.com/2013/07/pengertian-dan-tekstu
+Gambar 3.2 Komponen pembentuk batuan sedimen klastik
+
+Tekstur Batuan Sedimen Klastik
+Tekstur batuan sedimen adalah segala kenampakan yang menyangkut butir sedimen seperti
+besar butir, kebundaran, pemilahan dan kemas. Tekstur batuan sedimen mempunyai arti penting
+karena mencerminkan proses yang telah dialami batuan tersebut (terutama proses transportasi
+dan pengendapanannya) dan dapat digunakan untuk menginterpretasikan lingkungan
+pengendapan batuan sedimen.
+
+1) Besar Butir (Grain Size)
+Butir adalah ukuran/diameter butiran, yang merupakan unsur utama dari batuan sedimen
+klastik, yang berhubungan dengan tingkat energi pada saat transportasi dan pengendapan.
+Klasifikasi besar butir menggunakan skala Wentworth
+Besar butir ditentukan oleh :
+•
+
+Jenis pelapukan : pelapukan kimiawi (butiran halus), pelapukan mekanis (butiran kasar)
+
+•
+
+Jenis transportasi
+
+•
+
+Waktu/jarak transportasi
+
+•
+
+Resistensi
+
+2) Pemilahan (sorting)
+Pemilahan (sorting) adalah derajat keseragaman besar butir. Istilah yang dipakai dalam
+pemilahan adalah terpilah sangat baik, terpilah baik, terpilah sedang, terpilah buruk dan terpilah
+sangat buruk.
+
+Sumber : https://basdargeophysics.files.wordpress.com/2012/04/sorting.jpg
+Gamber 3.3 Pemilahan dan tingkat penamaan keseragaman butir
+
+3) Kebundaran (Roundness)
+Kebundaran (roundness) adalah tingkat kebundaran atau ketajaman sudut butir, yang
+mencerminkan tingkat abrasi selama transportasi. Kebundaran dipengaruhi oleh komposisi
+butir, besar butir, jenis transportasi, jarak transportasi dan resistensi butir. Istilah yang dipakai
+dalam kebundaran adalah very angular (sangat menyudut), angular (menyudut), sub angular
+(menyudut tanggung), sub rounded (membundar tanggung), rounded (membundar) dan well
+rounded (sangat membundar)
+
+Sumber : https://basdargeophysics.files.wordpress.com/2012/04/kebundaran.jpg
+Gambar 3.4 Tingkat kebundaran butir
+
+4) Kemas (fabric)
+Kemas (fabric) adalah sifat hubungan antar butir di dalam suatu masa dasar atau diantara
+semennya, sebagai fungsi orientasi butir dan packing. Kemas secara umum dapat memberikan
+gambaran tentang arah aliran dalam sedimentasi serta keadaan porositas dan permeabilitas
+batuan. Istilah yang dipakai adalah kemas terbuka (bila butiran tidak saling bersentuhan) dan
+kemas tertutup (bila butiran saling bersentuhan). Jenis-jenis kontak antar butir:
+
+Sumber : https://basdargeophysics.files.wordpress.com/2012/04/kemas.jpg
+Gambar 3.5 Jenis-jenis kontak antar butir
+
+5) Porositas
+Porositas adalah perbandingan antara volume rongga dengan volume total batuan (dinyatakan
+dalam persen). Porositas dapat diuji dengan meneteskan cairan (air) ke dalam batuan. Istilah
+yang dipakai adalah porositas baik (batuan menyerap air), porositas sedang (di antara baikburuk), dan porositas buruk (batuan tidak menyerap air). Jenis-jenis porositas : intergranular,
+microporosity, dissolution dan fracture.
+
+Sumber : https://basdargeophysics.files.wordpress.com/2012/04/porositas.jpg
+Gamber 3.6 Jenis-jenis porositas
+
+6) Warna
+Warna pada batuan sedimen mempunyai arti yang penting karena mencerminkan komposisi
+butiran penyusun batuan sedimen dan dapat digunakan untuk menginterpretasikan lingkungan
+pengendapan.
+
+Warna batuan merah menunjukan lingkungan oksidasi,sedangkan warna batuan hitam atau
+gelap menunjukan lingkungan reduksi. Secara umum warna pada batuan sedimen dipengaruhi
+oleh :
+•
+
+Warna mineral pembentuk batuan sedimen, contoh : bila mineral pembentuk batuan
+sedimen didominasi oleh kuarsa maka batuan akan berwarna putih (misal batupasir quartz
+arenite).
+
+•
+
+Warna matrik atau semen, contoh : bila matriks/semen mengandung oksida besi, maka
+batuan akan berwarna coklat kemerahan.
+
+•
+
+Warna material yang meyelubungi (coating material), contoh : batupasir kuarsa yang
+diselubungi oleh glaukonit akan berwarna hijau
+
+•
+
+Derajat kehalusan butir penyusunnya, contoh : pada batuan dengan komposisi sama jika
+makin halus ukuran butir maka warnanya akan cenderung lebih gelap.
+
+7)
+
+Kekompakan
+
+Kekompakan adalah sifat fisik dari batuan. Beberapa istilah yang dipakai dalam kekompakan
+batuan adalah :
+•
+
+Dense : sangat padat
+
+•
+
+Hard : keras dan padat
+
+•
+
+Medium hard : agak keras tetapi masih dapat digores dengan jarum baja
+
+•
+
+Soft : lunak, mudah tergores dan dipecahkan.
+
+•
+
+Friable : keras tetapi dapat diremas dengan tangan
+
+•
+
+Spongy : berongga
+
+3.3.3.2. BATUAN SEDIMEN NON-KLASTIK
+Batuan sedimen yang terbentuk dari hasil reaksi kimia atau bisa juga dari kegiatan organisme.
+Reaksi kimia yang dimaksud adalah kristalisasi langsung atau reaksi organik.
+Menurut R.P. Koesoemadinata, 1981 batuan sedimen dibedakan menjadi enam golongan yaitu:
+1.
+
+Golongan Detritus Kasar
+
+Batuan sedimen diendapkan dengan proses mekanis. Termasuk dalam golongan ini antara lain
+
+adalah breksi, konglomerat dan batupasir. Lingkungan tempat pengendapan batuan ini di
+lingkungan sungai dan danau atau laut.
+2.
+
+Golongan Detritus Halus
+
+Batuan yang termasuk kedalam golongan ini diendapkan di lingkungan laut dangkal sampai
+laut dalam. Yang termasuk ked ala golongan ini adalah batu lanau, serpih, batu lempung dan
+Nepal.
+3.
+
+Golongan Karbonat
+
+Batuan ini umum sekali terbentuk dari kumpulan cangkang moluska, algae dan foraminifera.
+Atau oleh proses pengendapan yang merupakan rombakan dari batuan yang terbentuk lebih
+dahulu dan di endpkan disuatu tempat. Proses pertama biasa terjadi di lingkungan laut litoras
+sampai neritik, sedangkan proses kedua di endapkan pada lingkungan laut neritik sampai
+bahtial. Jenis batuan karbonat ini banyak sekali macamnya tergantung pada material
+penyusunnya.
+4.
+
+Golongan Silika
+
+Proses terbentuknya batuan ini adalah gabungan antara pross organik dan kimiawi untuk lebih
+menyempurnakannya. Termasuk golongan ini rijang (chert), radiolarian dan tanah diatom.
+Batuan golongan ini tersebarnya hanya sedikit dan terbatas sekali.
+5.
+
+Golongan Evaporit
+
+Proses terjadinya batuan sedimen ini harus ada air yang memiliki larutan kimia yang cukup
+pekat. Pada umumnya batuan ini terbentuk di lingkungan danau atau laut yang tertutup,
+sehingga sangat memungkinkan terjadi pengayaan unsure-unsur tertentu. Dan faktor yang
+penting juga adalah tingginya penguapan maka akan terbentuk suatu endapan dari larutan
+tersebut. Batuan-batuan yang termasuk kedalam batuan ini adalah gip, anhidrit, batu garam.
+6.
+
+Golongan Batubara
+
+Batuan sedimen ini terbentuk dari unsur-unsur organik yaitu dari tumbuh-tumbuhan. Dimana
+sewaktu tumbuhan tersebut mati dengan cepat tertimbun oleh suatu lapisan yang tebsl di
+atasnya sehingga tidak akan memungkinkan terjadinya pelapukan.
+
+Lingkungan terbentuknya batubara adalah khusus sekali, ia harus memiliki banyak sekali
+tumbuhan sehingga kalau timbunan itu mati tertumpuk menjadi satu di tempat tersebut.
+
+3.3.2.4 STRUKTUR BATUAN SEDIMEN
+Struktur sedimen merupakan suatu kelainan dari perlapisan normal batuan sedimen yang
+diakibatkan oleh proses pengendapan dan keadaan energi pembentuknya.
+1. Struktur sedimen berdasarkan asalnya
+Berdasarkan asalnya struktur sedimen yang terbentuk dapat dikelompokan menjadi 3 macam:
+a) Struktur sedimen primer
+Terbentuk karena proses sedimentasi dengan demikian dapat merefleksikan mekanisasi
+pengendapannya.
+b) Struktur sedimen sekunder
+Terbentuk sesudah sedimentasi, sebelum atau pada waktu diagenesa. Juga merefleksikan
+keadaan lingkungan pengendapannya.
+c) Struktur organik
+Terbentuk oleh keadaan organisme seperti molusca, cacing atau bintang lainnya.
+Faktor – faktor yang mempengaruhi kenampakan adanya struktur perlapisan adalah :
+1. Adanya perbedaan warna mineral.
+2. Adanya perbedaan ukuran besar butir.
+3. Adanya perbedaan warna komposisi mineral.
+4. Adanya perbedaan macam batuan.
+5. Adanya perbedaan struktur sedimen.
+6. Adanya perbedaan kekompakan.
+2. Struktur sedimen berdasdarkan saat terjadinya. Secara garis besar struktur dapat
+dijelaskan sebagai berikut :
+a) Struktur sygnetik
+Karena proses fisik
+a.
+
+External structure
+
+Contoh : bentuk lembaran, lensa, lidah, delta dan shoestring.
+b.
+
+Internal structure
+
+1) Perlapisan dan laminasi
+▪ Normal current bedding yaitu perlapisan karena arus normal, missal perlapisan sejajar.
+
+Berdasarkan ukurannya dibedakan menjadi :
+- laminasi : bila tebal lapisan kurang dari 1 cm.
+- stratum : bila tebal lapisan lebih dari 1 cm.
+- beds : kumpulan dari beberapa laminar dan strath.
+▪ Cross bedding yaitu perlapisan silang siur yang terjadi akibat adanya perubahan arus.
+▪ Graded bedding yaitu perlapisan tersusun yang terjadi karena adanya pemilihan ukuran butir
+dari halus ke kasar.
+2) Features of bedding planes, yaitu bentuk dari permukaan lapisan selama proses sedimentasi.
+▪ Ripplemarke yaitu bentuk permukaan bergelombang karena adanya proses satu arah.
+▪ Mud crack yaitu bentuk – bentuk retak – retak pada lapisan lumpur, biasanya berbentuk segi
+lima.
+▪ Flute cast yaitu bentuk gerusan pada permukaan lapisan yang bentuknya seperti seruling.
+▪ Load cast yaitu lekukan pada batas perlapisan yang diakibatkan oleh gaya tekan dari muatan
+yang ada di atasnya.
+3) Deformation structure, yaitu terjadinya perubahan struktur batuan pada saat sedimen
+terendapkan karena adanya tekanan.
+▪ Post deposisional blump features yaitu struktur luncura yang terjadi akibat adanya desakan
+yang tinggi.
+▪ Intraformational konglomerat yaitu struktur hancuran yang menyerupai konglomerat karena
+adanya pergerakan pada sedimen sebelum mengalami litifikasi.
+2. Karena proses biologi (organik)
+a. External structure
+▪ Biostromes yaitu struktur batu gamping yang berlapis
+▪ Bioherm yaitu panggul buklit yang mempunyai penyebaran terbatas.
+b. Internal structure
+▪ Misalnya fosil dalam batuan.
+b) Struktur epigenetic
+1. Karena proses fisik
+a. External structure
+
+▪ Batas antar tiap lapisan :
+o Batas tegas atau gradual
+o Batas selaras
+o Lipatan dan sesar
+b.
+
+Internal structure
+
+▪ Clastic dike yaitu trjadi karena adanya tekanan hidrostatika yang kuat sehingga
+material seperti di injeksikan.
+2. Karena proses kimia atau organisme
+▪
+
+Corrosion zone
+
+▪
+
+Concretions
+
+▪
+
+Stilotites
+
+▪
+
+Cone in cone
+
+▪
+
+Cristal mold and cast
+
+▪
+
+Veins and dike
+
+3. Genesa Struktur – struktur Batuan Sedimen
+A. Massif
+Batuan massif bila tidak menunjukan struktur dalam atau ketebalan lebih dari 120 cm.
+B. Graded Bedding
+Lapisan yang dicirakan oleh perubahan yang granual dari ukuran butir penyusunnya bila
+bagian bawah kasar dan keatas semakin halus disebut normal grading.
+C. Laminasi
+Perlapisan dan struktur sedimen yang mempunyai ketebalan kurang dari 1 cm terbentuk bila
+pola pengendapannya dengan energi yang konstan.biasanya terbentuk dari suspensi tanpa
+energi mekanis.
+D. Cross lamination
+1) Cross lamination
+Secara umum dipakai untuk lapisan miring dengan ketebalan kuranmg dari 5 cm, dengan
+fareset ketebalannya lebih dari 5 cm, merupakan struktur sedimentasi yang tunggal yang
+terdiri dari urut – urutan sistematik
+
+2) Cross bedding
+Secara umum bentuk fisik cross lamination, yang membedakan hanyalah ketebalannya, yaitu
+lebih dari 5 cm untuk cross bedding.
+E. Clastic Imbrication
+Clastic Imbrication adalah suatu struktur sedimentasi yang dicirikan oleh fragmen – fragmen
+tabular yang overlapping dan menunjukan arus ke atas pada daerah yang berbatu – batu atau
+pada daerah yang miring. Biasanya pada daerah fluvial.
+F. Primary current kination
+Primary current kination adalah struktur sdimentasi yang berbentuk garis pada di dalam
+batuan yang terbentuk oleh arus utama,sering diterapkan pada batuan sedimen yang biasanya
+menunjukan pelurusan suatu garis tunggal dari kumpulan cangkang.
+G. Fosil orientation
+Fosil orientation adalah struktur sedimen yang menunjukan orientasi tertentu dari kumpulan
+fosil yang menunjukan arah arus sedimentasi yang di akibatkan oleh pengenangan yang
+energi transportasinya berkurang, sedangkan fosilnya sendiri mempunyai bentuk–bentuk
+yang dapat berorientasi.
+H. Load cast
+Load cast adalah struktur sedimen yanq terbentuk akibat tubuh sedimen yang mengalami
+pembebanan oleh material sedimen lain di atasnya.
+I. Flute cast
+Flute cast adalah struktur sedimen yang berupa celah dan terputus–putus serta berbentuk
+kantong, dengan ukuran 2 – 10 cm, struktur ini terbentuk pada batuan dasar akibat pengaruh
+aliran turbulen dari air merupakan gerusan dari media transportasi yang membawa material
+kemudian material–material tersebut mengisinya yang biasanya berupa pasir.
+J. Mud cracks
+Mud cracks adalah struktur sedimen yang berupa retakan–retakan pada tubuh sedimen
+bagian permukaan, biasanya pada tubuh campur yang berkembang sifat kohesinya. Hal ini
+akibat perubahan suhu dan pengerutan.
+K. Tool marks
+Tool marks adalah material–material pasir yang terbawa arus menggerus permukaan lumpur
+dan meninggalkan jejak yang menjadi tempat berkumpul material pasir tersebut dan gerakan
+merupakan tonjolan lapisan pasir ke bawah.
+
+L. Rain print
+Rain print adalah suatu lubang lingkaran atau elips kecil yang terbentuk di atas lumpur yang
+masih basah oleh air hujan yang kemudian setelah lumpur itu kering di atasnya terendapkan
+lapisan batupasir.
+M. Flame structure
+Flame structure adalah structure sedimen yang berupa bentukan dari lumpir yang licin dan
+memisahkan ke bawah membesar membentuk load cast dari pasir pada kontak antara
+lempung dan pasir. Kenampakan structure ini menyala pada cross section dari shale yang
+memasuki batupasir akibat tekanan lateral.
+N. Ball, pillow or pseudonodule structure
+Ball, pillow or pseudonodule structure adalah suatu bentuk akibat gaya beban dari atas pada
+shale oleh batupasir dimana shale tersebut belum dapat benar.
+O. Convolute bedding
+Convolute bedding adalah struktur deformasi dari suatu lapisan yang membentuk
+perlapisan meliuk – liuk dengan ketebalan lapisan 2 – 25 cm.
+P. Scours
+Scours adalah struktur sedimen yang terbentuk pada tubuh sedimen di mana terbentuknya
+lebih awal yang kemudian tergerus oleh arus berikutnya.
+Q. Channels
+Struktur sedimen yang mempunyai ciri erosional yang kelok – kelok dan merupakan bagian
+dari sistem transportasi yang mempunyai energi penggerusan cukup besar.
+R. Dish and pillow structure
+Dish and pillow structure adalah struktur sedimen yang berbentuk seperti bantal dan
+mangkok yang terbentuk oleh sedimen pasir yang belum terkonsilidasi telah tertimbun
+sedimen lain di atasnya sehingga mengalami penekanan ke bawah.
+S. Low relief erosion surface
+Low relief erosion surface adalah struktur sedimen yang terbentuk relief rendah pada
+permukaan tubuh sedimenakibat proses erosi.
+T. Syndepositional fold and slumps
+Syndepositional fold and slumps adalah suatu bentukan lipatan kecil pada batupasir yang
+terjadi karena perlapisan batupasir tersebut belum terkonsilidasi benar.
+U. Hard ground mass
+Hard ground mass adalah struktur sedimen yang terbentuk akibat dari akumulasi material
+
+sedimen yang khas di dalam tubuh sedimen lain yang relatif lunak.
+
+3.3.3.
+
+BATUAN METAMORF
+Yaitu batuan yang berasal dari batuan induk yang mengalami perubahan tekstur dan
+
+komposisi mineral sebagai akibat perubahan kondisi fisik disebabkan oleh tekanan dan
+temperatur.batuan sebelumnya akan berubah tekstur dan strukturnya sehingga membentuk
+batuan baru dengan tekstur dan struktur yang baru pula. Contoh batuan tersebut adalah batu
+sabak atau slate yang merupakan perubahan batu lempung. Apabila semua batuan-batuan yang
+sebelumnya terpanaskan dan meleleh maka akan membentuk magma yang kemudian
+mengalami proses pendinginan kembali dan menjadi batuan-batuan baru lagi. Beberapa
+contoh batuan metamorf adalah Gneis, batu sabak, batu garnet, dan pualam.
+Batuan metamorf menyusun sebagian besar dari kerak Bumi.Mereka terbentuk jauh
+dibawah permukaan bumi oleh tegasan yang besar dari batuan diatasnya serta tekanan dan
+suhu tinggi.Mereka juga terbentuk oleh intrusi batu lebur, disebut magma, ke dalam batuan
+padat dan terbentuk terutama pada kontak antara magma dan batuan yang bersuhu tinggi.
+Ciri-ciri batuan ini :
+•
+
+Adanya perlapisan,
+
+•
+
+Silang siur atau struktur gelembur gelombang klastik.
+
+3.3.3.1.
+
+STRUKTUR DAN TEKSTUR BATUAN METAMORF
+
+A. Struktur Batuan Metamorf
+Adalah kenampakan batuan yang berdasarkan ukuran, bentuk atau orientasi unit poligranular
+batuan tersebut. (Jacson, 1997). Secara umum struktur batuan metamorf dapat dibadakan
+menjadi struktur foliasi dan nonfoliasi (Jacson, 1997).
+
+1. Struktur Foliasi
+Merupakan kenampakan struktur planar pada suatu massa. Foliasi ini dapat terjadi karena adnya
+penjajaran mineral-mineral menjadi lapisan-lapisan (gneissoty), orientasi butiran (schistosity),
+
+permukaan belahan planar (cleavage) atau kombinasi dari ketiga hal tersebut (Jacson, 1970).
+Struktur foliasi yang ditemukan adalah :
+
+a. Slaty Cleavage
+Umumnya ditemukan pada batuan metamorf berbutir sangat halus (mikrokristalin) yang
+dicirikan oleh adanya bidang-bidang belah planar yang sangat rapat, teratur dan sejajar.
+Batuannya disebut slate (batusabak).
+
+Gambar Struktur Slaty Cleavage dan Sketsa Pembentukan Struktur
+b. Phylitic
+Srtuktur ini hampir sama dengan struktur slaty cleavage tetapi terlihat rekristalisasi yang lebih
+besar dan mulai terlihat pemisahan mineral pipih dengan mineral granular. Batuannya disebut
+phyllite (filit)
+
+Gambar Struktur Phylitic
+
+c. Schistosic
+Terbentuk adanya susunan parallel mineral-mineral pipih, prismatic atau lentikular (umumnya
+mika atau klorit) yang berukuran butir sedang sampai kasar. Batuannya disebut schist (sekis).
+
+Gambar Struktur Schistosic dan Sketsa Pembentukan Struktur
+d. Gneissic/Gnissose
+Terbentuk oleh adanya perselingan., lapisan penjajaran mineral yang mempunyai bentuk
+berbeda, umumnya antara mineral-mineral granuler (feldspar dan kuarsa) dengan
+mineral-mineral tabular atau prismatic (mioneral ferromagnesium).
+Penjajaran mineral ini umumnya tidak menerus melainkan terputus-putus. Batuannya
+disebut gneiss.
+
+Gambar Struktur Gneissic dan Sketsa Pembentukan Struktur
+
+2. Struktur Non Foliasi
+Terbentuk oleh mineral-mineral equidimensional dan umumnya terdiri dari
+butiran-butiran (granular). Struktur non foliasi yang umum dijumpai antara lain:
+
+a. Hornfelsic/granulose
+Terbentuk oleh mozaic mineral-mineral equidimensional dan equigranular dan umumnya
+berbentuk polygonal. Batuannya disebut hornfels (batutanduk)
+
+Gambar:Sruktur Granulose
+
+b. Kataklastik
+Berbentuk oleh pecahan/fragmen batuan atau mineral berukuran kasar dan umumnya
+membentuk kenampakan breksiasi. Struktur kataklastik ini terjadi akibat metamorfosa
+kataklastik. Batuannya disebut cataclasite (kataklasit).
+
+c. Milonitic
+Dihasilkan oleh adanya penggerusan mekanik pada metamorfosa kataklastik. Cirri
+struktur ini adalah mineralnya berbutir halus, menunjukkan kenampakan goresangoresan searah dan belum terjadi rekristalisasi mineral-mineral primer. Batiannya disebut
+mylonite (milonit).
+
+Gambar:Struktur Miloniti
+
+d. Phylonitic
+Mempunyai kenampakan yang sama dengan struktur milonitik tetapi umumnya telah terjadi
+rekristalisasi. Ciri lainnya adalah kenampakan kilap sutera pada batuan yang, mempunyai
+struktur ini. Batuannya disebut phyllonite (filonit).
+
+Tekstur Batuan Metamorf
+
+B.
+
+Merupakan kenampakan batuan yang berdasarkan pada ukuran, bentuk dan orientasi butir
+mineral dan individual penyusun batuan metamorf. Penamaan tekstur batuan metamorf umumnya
+menggunakan awalan blasto atau akhiran blastic tang ditambahkan pada istilah dasarnya. (Jacson,
+1997).
+1. Tekstur Berdasarkan Ketahanan Terhadap Proses Metamorfosa
+Berdasarkan ketahanan terhadap proses metamorfosa ini tekstur batuan metamorf dapat
+dibedakan menjadi:
+1. Relict/Palimset/Sisa
+Merupakan tekstur batuan metamorf yang masih menunjukkan sisa tekstur batuan asalnya atau
+tekstur batuan asalnya nasih tampak pada batuan metamorf tersebut.
+2. Kristaloblastik
+Merupakan tekstur batuan metamorf yang terbentuk oleh sebab proses metamorfosa itu
+sendiri. Batuan dengan tekstur ini sudah mengalami rekristalisasi sehingga tekstur asalnya
+tidak tampak. Penamaannya menggunakan akhiran blastik.
+2. Tekstur Berdasarkan Ukuran Butir
+Berdasarkan butirnya tekstur batuan metmorf dapat dibedakan menjadi:
+1. Fanerit, bila butiran kristal masih dapat dilihat dengan mata
+2. Afanitit, bila ukuran butir kristal tidak dapat dilihat dengan mata
+3. Tekstur berdasarkan bentuk individu kristal
+Bentuk individu kristal pada batuan metamorf dapat dibedakan menjadi:
+1. Euhedral, bila kristal dibatasi oleh bidang permukaan bidang kristal itu sendiri.
+
+2. Subhedral, bila kristal dibatasi oleh sebagian bidang permukaannya sendiri dan sebagian oleh
+bidang permukaan kristal disekitarnya.
+3. Anhedral, bila kristal dibatasi seluruhnya oleh bidang permukaan kristal lain disekitarnya.
+Berdasarkan bentuk kristal tersebut maka tekstur batuan metamorf dapat dibedakan menjadi:
+1. Idioblastik, apabila mineralnya dibatasi oleh kristal berbentuk euhedral.
+2. Xenoblastik/Hypidioblastik, apabila mineralnya dibatasi oleh kristal berbentuk anhedral.
+4. Tekstur Berdasarkan Bentuk Mineral
+Berdasarkan bentuk mineralnya tekstur batuan metamorf dapat dibedakan menjadi:
+1. Lepidoblastik, apabila mineralnya penyusunnya berbentuk tabular.
+2. Nematoblastik, apabila mineral penyusunnya berbentuk prismatic.
+3. Granoblastik, apabila mineral penyusunnya berbentuk granular, equidimensional, batas
+mineralnya bersifat sutured (tidak teratur) dan umumnya kristalnya berbentuk anhedral.
+4. Granoblastik, apabila mineral penyusunnya berbentuk granular, equidimensional, batas
+mineralnya bersifat unsutured (lebih teratur) dan umumnya kristalnya berbentuk anhedral.
+Selain tekstur yang diatas terdapat beberapa tekstur khusus lainnya diantaranya adlah sebagai
+berikut:
+•
+
+Perfiroblastik, apabila terdapat mineral yang ukurannya lebih besar tersebut sering disebut
+porphyroblasts.
+
+•
+
+Poikloblastik/Sieve texture, tekstur porfiroblastik dengan porphyroblasts tampak melingkupi
+beberapa kristal yang lebih kecil.
+
+•
+
+Mortar teksture, apabila fragmen mineral yang lebih besar terdapat padamassadasar material
+yang barasal dari kristal yang sama yang terkena pemecahan (crhusing).
+
+•
+
+Decussate texture yaitu tekstur kristaloblastik batuan polimeneralik yang tidak menunjukkan
+keteraturan orientasi.
+
+•
+
+Saccaroidal Texture yaitu tekstur yang kenampakannya seperti gula pasir.
+
+•
+
+Batuan mineral yang hanya terdiri dari satu tekstur saja, sering disebut berstektur
+homeoblastik.
+
+DAFTAR PUSTAKA
+
+Wikipedia, 2013 “Mineral dan Mineralogi” http://id.wikipedia.org/wiki/Mineralogi. Diakses
+pada 20 oktober 2014 pada pukul 19.00
+Prihatin
+
+tri
+
+“Mineral”
+
+http://ptbudie.wordpress.com/2010/12/23/definisi-mineralogi-dan-
+
+mineral/. Diakses pada 20 oktober 2014 pada pukul 21.00
+Diktat
+
+penuntun,
+
+“Kristalografi,
+
+Mineralogi
+
+Dan
+
+Petrologi”
+
+Pengenalan
+
+Mineral
+
+Laboratoriumgeologi, jurusanteknikpertambangan, Universitas Islam Bandung.2014
+
+
